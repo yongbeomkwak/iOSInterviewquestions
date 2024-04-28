@@ -56,17 +56,27 @@ Apple 공식 개발 문서중 읽어 보면 좋은 문서들은 다음과 같습
 - CPU 아키텍처의 종류(예: ARM, x86)와 특징에 대해 설명해주세요.
 - iOS 기기에서 사용되는 AP(Application Processor)의 특징과 역할에 대해 설명해주세요.
 
+ 
+[CPU](https://velog.io/@480/%EC%9D%B4%EC%A0%9C%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8F%84-CPU-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EB%A5%BC-%EA%B5%AC%EB%B6%84%ED%95%B4%EC%95%BC-%ED%95%A9%EB%8B%88%EB%8B%A4)
+
+[CISC vs RISC ](https://velog.io/@kjw2298/CISC-RISC-%EA%B0%9C%EB%85%90-%EB%B0%8F-%EC%B0%A8%EC%9D%B4)
+
 2. 운영체제의 역할과 iOS에서의 운영체제 구조에 대해 설명해주세요.
 
 - 프로세스와 스레드의 차이점, iOS에서의 프로세스와 스레드 관리 방법에 대해 설명해주세요.
 - 메모리 관리 기법 중 iOS에서 사용되는 방식과 그 특징에 대해 설명해주세요.
 - iOS의 샌드박스(Sandbox) 개념과 역할, 앱 간 데이터 공유 방법에 대해 설명해주세요.
 
+[프로세스 vs 스레드](https://babbab2.tistory.com/63)
+[ARC](https://blog.wakmusic.xyz/%EC%88%9C%ED%99%98-%EC%B0%B8%EC%A1%B0-e740528cfeb8)
+
 3. iOS에서의 메모리 구조와 관리 방식에 대해 자세히 설명해주세요.
 
 - iOS 앱의 메모리 구조(힙, 스택, 코드 영역 등)와 각 영역의 특징에 대해 설명해주세요.
 - 힙 영역에서 객체가 어떻게 할당되고 관리되는지 설명해주세요.
 - 스택 영역에서 함수 호출과 로컬 변수의 메모리 할당 및 해제 과정을 설명해주세요.
+
+[Memory](https://velog.io/@averycode/iOS-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B5%AC%EC%A1%B0-Stack-Heap-Data-Code)
 
 4. 네트워크 프로토콜 스택과 iOS에서의 네트워크 통신 방식에 대해 설명해주세요.
 
@@ -76,6 +86,12 @@ Apple 공식 개발 문서중 읽어 보면 좋은 문서들은 다음과 같습
 - REST API와 iOS에서의 네트워크 요청 및 응답 처리 방법에 대해 설명해주세요.
 - REST API에서 Method들의 차이점을 설명해주세요.
 - HTTP 상태 코드에 대해서 설명해주세요.
+
+[소켓 통신](https://helloworld-88.tistory.com/215)
+
+[REST API](https://junvelee.tistory.com/107)
+
+[REST API with iOS](https://ohwhatisthis.tistory.com/19)
 
 5. iOS에서 메모리 사이즈와 관련된 개념과 고려 사항에 대해 설명해주세요.
 
